@@ -53,7 +53,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 Deploy on Heroku
 <p align="left">
-  <a href="https://github.com/SeriesZone101/EvaMaria">
+   <a href="https://heroku.com/deploy?template=https://github.com/JNSBOT/JNS-MOVIE-BOT-EVA">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
